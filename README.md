@@ -1,4 +1,5 @@
-# NGUYEN NHAT THONG
+<!-- # NGUYEN NHAT THONG -->
+<h1 style="text-align: center;">NGUYEN NHAT THONG</h1>
 
 <!-- <img src="./public/avata.jpg" width="180" style='border-radius: 10px; margin-bottom: 20px;'/> -->
 
