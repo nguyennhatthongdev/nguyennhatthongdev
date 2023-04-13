@@ -1,5 +1,5 @@
-# Nguyen Nhat Thong
-Front-end Developer
+### <p style="text-align:center;">Nguyen Nhat Thong</p>
+<p style="text-align:center">Front-end Developer</p>
 
 > OVERVIEW
 
@@ -18,6 +18,7 @@ I want to set-up my own company in next 50 years.
 > SKILLS
 
 Programming & Languages:
+![label](https://img.shields.io/badge/-VueJS-green) ![label](https://img.shields.io/badge/-CSS-green)
 
 Libraries & Frameworks:
 
