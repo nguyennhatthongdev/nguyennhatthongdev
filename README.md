@@ -23,7 +23,7 @@ Programming & Languages:
 
 Libraries & Frameworks:
 
-[![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
+[![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#) [![Jquery Badge](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
 
 Tools & Services & Database:
 
@@ -36,12 +36,25 @@ Related Skills:
 
 > EMPLOYMENT HISTORY
 
+GUMI VIETNAM JOINT STOCK COMPANY
+- Postion: Front-end Developer
+- Duration: 26/11/2020 - Present
+- Team size: ~20 members
+- Address: Ward 6, District 3, Ho Chi Minh City
+
+LE DU GROUP JOINT STOCK COMPANY
+- Position: Back-end Internship
+- Duration: 07/09/2020 - 22/11/2020
+- Team size: ~9 members
+- Address: Tan Thoi Hiep Wad, District 12, Ho Chi Minh City
+
 > WORKING EXPERIENCE
 
 > LIST OF PROJECTS
 
-> EDUCATION, QUALIFICATIONS
+> EDUCATION, QUALIFICATIONS​
+
+Software Application.
+**FPT POLYTECHNIC College** (2019 - 2021)
 
 > OTHER SKILLS & & SPECIAL ARCHIVEMENTS
-
-> REFERENCES
