@@ -4,18 +4,17 @@
 > OVERVIEW
 
 - **Full name**: Nguyen Nhat Thong
-- **Date of Birth**: 06/12/2000 [Optional]
+- **Date of Birth**: 06/12/2000
 - **Gender**: Male
 - **Email**: nguyennhatthongdev@gmail.com
 - **Availability**: 30 days required upon confirmation of offer
 
 > CAREER OBJECTIVE
 
-I want to work for a US company at management level with a super high 
-salary. 
-I want to set-up my own company in next 50 years.
+As a frontend developer, I am determined to create a product that can generate  profit within the next 3 years. Additionally, I do my best to improve my skills and expand my knowledge, with the ultimate aim of becoming a full-stack developer within the next 5 years.
 
 > SKILLS
+
 
 Programming & Languages:
 
@@ -40,21 +39,54 @@ GUMI VIETNAM JOINT STOCK COMPANY
 - Postion: Front-end Developer
 - Duration: 26/11/2020 - Present
 - Team size: ~20 members
-- Address: Ward 6, District 3, Ho Chi Minh City
 
 LE DU GROUP JOINT STOCK COMPANY
 - Position: Back-end Internship
 - Duration: 07/09/2020 - 22/11/2020
 - Team size: ~9 members
-- Address: Tan Thoi Hiep Wad, District 12, Ho Chi Minh City
 
 > WORKING EXPERIENCE
 
+- I have experience working with Vue.js for 2 years and have used many popular libraries and tools for web application development such as Vee validate, ant design vue, axios, vuex, pinia, and lodash-es.
+
+- I have 12 months of experience working with Angular 11, where I have utilized popular libraries and tools such as RxJS, ng zorro antd, Formly, and ngx permissions. RxJS enabled me to implement reactive programming, ng-zorro-antd provided a rich set of UI components, Formly allowed me to create dynamic forms, and ngx permissions helped me manage user permissions in Angular applications.
+
+- I have the opportunity to work with CanvasJS for around 4 months, where I have utilized it to create a calendar KPI for measuring performance and effort over a period of time or available capacity. This project has provided me with valuable experience in data visualization and enabled me to leverage the powerful capabilities of CanvasJS to create effective and engaging visualizations.
+
 > LIST OF PROJECTS
+
+Muti-tenant ecommerce site
+- Position: Front-end Developer
+- Duration: 11/2022 - 05/2023
+- Team size: ~9 members (2 Front-end, 2 Back-end, 1 DevOps)
+- Description: this is ecommerce site that allows for the creation of multiple tenants at the master level. The site includes a tenant CMS where UI settings for each tenant's pages can be configured. This allows each tenant to customize their own layout, CSS, and products, as well as control the display time for their pages.
+
+Workload Assignment System
+- Position: Front-end Developer
+- Duration: 08/2022 - 11/2022
+- Team size: ~5 members (2 Front-end, 3 Back-end)
+- Description: I have developed a system that includes a calendar for measuring key performance indicators (KPIs) over a specific period of time or available capacity. The system also includes features for managing employees and tracking their work hours.
+
+Booking Website for Space Rental Service
+- Position: Front-end Developer
+- Duration: 04/2022 - 08/2022
+- Team size: ~2 members
+- Description: I have developed a website for booking hourly-based service rentals using a calendar that displays available and reserved time slots.
+
+Checkin - Checkout System
+- Position: Front-end Developer
+- Duration: 03/2020 - 04/2020
+- Team size: ~2 members
+- Description: This is a website that tracks the work hours and the calculates total hours worked of each staff (Including the working hours per shift, and if they have any break time)
+
+Event Campaign Websites
+- Position: Front-end Developer
+- Duration: Many projects throughout from 2021 - 2023
+- Team size: ~3 members
+- Description: this is a website for deploying a promotional campaign with point-based rewards or lucky draw.
 
 > EDUCATION, QUALIFICATIONS​
 
-Software Application.
 **FPT POLYTECHNIC College** (2019 - 2021)
-
-> OTHER SKILLS & & SPECIAL ARCHIVEMENTS
+- Major: Software Application Development.
+- GPA: 8.5
