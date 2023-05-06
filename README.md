@@ -4,7 +4,7 @@
 > OVERVIEW
 
 - **Full name**: Nguyen Nhat Thong
-- **Date of Bird**: 06/12/2000 [Optional]
+- **Date of Birth**: 06/12/2000 [Optional]
 - **Gender**: Male
 - **Email**: nguyennhatthongdev@gmail.com
 - **Availability**: 30 days required upon confirmation of offer
