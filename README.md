@@ -90,3 +90,20 @@ Event Campaign Websites
 **FPT POLYTECHNIC College** (2019 - 2021)
 - Major: Software Application Development.
 - GPA: 8.5
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyennhatthongdev&label=Profile%20views&color=0e75b6&style=flat" alt="nguyennhatthongdev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyennhatthongdev" alt="nguyennhatthongdev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codesandbox.com/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ee" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyennhatthongdev&show_icons=true&locale=en&layout=compact" alt="nguyennhatthongdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhatthongdev&show_icons=true&locale=en" alt="nguyennhatthongdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhatthongdev&" alt="nguyennhatthongdev" /></p>
