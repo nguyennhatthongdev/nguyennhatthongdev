@@ -102,8 +102,8 @@ Event Campaign Websites
 <a href="https://codesandbox.com/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ee" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyennhatthongdev&show_icons=true&locale=en&layout=compact" alt="nguyennhatthongdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyennhatthongdev&show_icons=true&locale=en&layout=compact&theme=dark" alt="nguyennhatthongdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhatthongdev&show_icons=true&locale=en" alt="nguyennhatthongdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhatthongdev&show_icons=true&locale=en&theme=dark" alt="nguyennhatthongdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhatthongdev&" alt="nguyennhatthongdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhatthongdev&theme=dark" alt="nguyennhatthongdev" /></p>
