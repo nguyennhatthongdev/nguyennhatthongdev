@@ -99,7 +99,7 @@ Event Campaign Websites
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg&theme=dark" alt="ee" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ee" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyennhatthongdev&show_icons=true&locale=en&layout=compact&theme=dark" alt="nguyennhatthongdev" /></p>
