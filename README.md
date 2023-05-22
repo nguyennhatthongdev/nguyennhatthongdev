@@ -53,38 +53,6 @@ LE DU GROUP JOINT STOCK COMPANY
 
 - I have the opportunity to work with CanvasJS for around 4 months, where I have utilized it to create a calendar KPI for measuring performance and effort over a period of time or available capacity. This project has provided me with valuable experience in data visualization and enabled me to leverage the powerful capabilities of CanvasJS to create effective and engaging visualizations.
 
-> LIST OF PROJECTS
-
-Muti-tenant ecommerce site
-- Position: Front-end Developer
-- Duration: 11/2022 - 05/2023
-- Team size: ~9 members (2 Front-end, 2 Back-end, 1 DevOps)
-- Description: this is ecommerce site that allows for the creation of multiple tenants at the master level. The site includes a tenant CMS where UI settings for each tenant's pages can be configured. This allows each tenant to customize their own layout, CSS, and products, as well as control the display time for their pages.
-
-Workload Assignment System
-- Position: Front-end Developer
-- Duration: 08/2022 - 11/2022
-- Team size: ~5 members (2 Front-end, 3 Back-end)
-- Description: I have developed a system that includes a calendar for measuring key performance indicators (KPIs) over a specific period of time or available capacity. The system also includes features for managing employees and tracking their work hours.
-
-Booking Website for Space Rental Service
-- Position: Front-end Developer
-- Duration: 04/2022 - 08/2022
-- Team size: ~2 members
-- Description: I have developed a website for booking hourly-based service rentals using a calendar that displays available and reserved time slots.
-
-Checkin - Checkout System
-- Position: Front-end Developer
-- Duration: 03/2020 - 04/2020
-- Team size: ~2 members
-- Description: This is a website that tracks the work hours and the calculates total hours worked of each staff (Including the working hours per shift, and if they have any break time)
-
-Event Campaign Websites
-- Position: Front-end Developer
-- Duration: Many projects throughout from 2021 - 2023
-- Team size: ~3 members
-- Description: this is a website for deploying a promotional campaign with point-based rewards or lucky draw.
-
 > EDUCATION, QUALIFICATIONS​
 
 **FPT POLYTECHNIC College** (2019 - 2021)
