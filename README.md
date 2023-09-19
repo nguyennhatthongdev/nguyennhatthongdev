@@ -7,7 +7,6 @@
 - **Date of Birth**: 06/12/2000
 - **Gender**: Male
 - **Email**: nguyennhatthongdev@gmail.com
-- **Availability**: 30 days required upon confirmation of offer
 
 > CAREER OBJECTIVE
 
